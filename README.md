@@ -1,0 +1,1 @@
+All this code is uploaded to give an idea of how my structure looks in the engine, just for reference that is. The full project contains some other files and external includes. It is still an ongoing project that will develop under time.
